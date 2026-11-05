@@ -1,5 +1,7 @@
 # Starglider Remake (Godot 4)
 
+EVERYTHING (EXCEPT THIS LINE) INCLUDING THIS README WAS CREATED BY CLAUDE CODE!! JUST A FUN TIME PASSER GAME.
+
 A wireframe tribute to Argonaut's 1986 *Starglider*. Fly over Novenia, shoot Egron walkers,
 tanks and flyers, raid their bases, then take down Starglider One.
 
